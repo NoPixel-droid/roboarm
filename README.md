@@ -21,9 +21,13 @@ Ben Mehmet Kuzey Özgür, python ve C++'ı birleştirerek bir robot kontrol üni
 
 mekanik:
 arduino uno
+
 3 boyutlu yazıcı(Two Trees Sapphire Plus SP5)
+
 SM-4303R servo motor 1x
+
 MG995 servo motor 2x
+
 SG90 servo motor 1x
 
 Kullandığım çizimlerin linki:
