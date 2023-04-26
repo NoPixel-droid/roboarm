@@ -17,6 +17,9 @@ MG995 servo motor 2x
 
 SG90 servo motor 1x
 
+606 roller 1x
+
+5.95 bb airsoft gun bullet
 
 
 Link of the drawings I used:
@@ -42,6 +45,9 @@ MG995 servo motor 2x
 
 SG90 servo motor 1x
 
+606 rulman 1x
+
+5.95 airsoft silahı mermisi
 
 
 Kullandığım çizimlerin linki:
