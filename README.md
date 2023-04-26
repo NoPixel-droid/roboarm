@@ -10,6 +10,8 @@ SM-4303R servo motor 1x
 MG995 servo motor 2x
 SG90 servo motor 1x
 
+Link of the drawings I used:
+https://www.thingiverse.com/thing:1454048
 
 Türkçe
 
@@ -23,3 +25,6 @@ arduino uno
 SM-4303R servo motor 1x
 MG995 servo motor 2x
 SG90 servo motor 1x
+
+Kullandığım çizimlerin linki:
+https://www.thingiverse.com/thing:1454048
